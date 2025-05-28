@@ -1,0 +1,2 @@
+# Soot-Profiles-Extraction-Plat
+A general platform for creating data and running various deep learning models on it for research of extracting soot profiles out of a flame image. Built for Dr. Victor Chernov, Department of Mechanical Engineering, Braude College.
