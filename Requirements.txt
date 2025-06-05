@@ -1,0 +1,13 @@
+#py3.11
+numpy
+scipy
+pillow
+torch
+torchvision
+torchsummary
+logging
+regex>=2024.4.16
+python-pptx
+colorlog
+matplotlib
+tqdm
